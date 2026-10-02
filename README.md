@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./docs/public/hypit-logo-light.svg">
-    <img alt="Hihi-pinis" src="./docs/public/hypit-logo-dark.svg" width="687" height="122">
+    <source media="(prefers-color-scheme: dark)" srcset="./docs/public/hihi-pinis-logo-light.svg">
+    <img alt="Hihi-pinis" src="./docs/public/hihi-pinis-logo-dark.svg" width="687" height="122">
   </picture>
 </p>
 
