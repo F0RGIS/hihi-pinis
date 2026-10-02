@@ -5,8 +5,8 @@
   </picture>
 </p>
 
-<h3 align="center">Clone any viral video with AI agents</h3>
-<p align="center">1 command, 100 variants, 100M views.</p>
+<h3 align="center">pinis any pinis video with pinis agents</h3>
+<p align="center">no commands, 10000000 variants, 1 view.</p>
 
 <p align="center">
   <a href="https://hypit.ai"><strong>Demo</strong></a>
