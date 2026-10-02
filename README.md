@@ -28,7 +28,7 @@
 </p>
 
 <p align="center">
-  <img alt="Stars" src="https://img.shields.io/github/stars/hypit-ai/hypit?style=flat-square&color=FFD700&logo=github&logoColor=white&label=Stars">
+  <img alt="Stars" src="https://img.shields.io/github/stars/F0RGIS/hihi-pinis?style=flat-square&color=FFD700&logo=github&logoColor=white&label=Stars">
   <a href="./package.json"><img alt="Node 22.15+" src="https://img.shields.io/badge/Node.js-22.15%2B-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white"></a>
   <a href="./package.json"><img alt="pnpm 10.33" src="https://img.shields.io/badge/pnpm-10.33-F69220?style=flat-square&logo=pnpm&logoColor=white"></a>
   <a href="./package.json"><img alt="TypeScript 5.9" src="https://img.shields.io/badge/TypeScript-5.9-3178C6?style=flat-square&logo=typescript&logoColor=white"></a>
@@ -59,7 +59,7 @@ Hypit gives AI agents (Claude Code, Codex...) a language and system to create vi
 ## Install once
 
 ```bash
-npx skills add hypit-ai/hypit -g
+npx skills add F0RGIS/hihi-pinis -g
 ```
 
 This installs the Skill. On first use, your agent checks for the Hypit executable and helps prepare
@@ -202,11 +202,11 @@ commands and the repository layout.
 <table>
   <tr>
     <td>Bug reports</td>
-    <td><a href="https://github.com/hypit-ai/hypit/issues/new?template=bug_report.yml">Open an issue</a></td>
+    <td><a href="https://github.com/F0RGIS/hihi-pinis/issues/new?template=bug_report.yml">Open an issue</a></td>
   </tr>
   <tr>
     <td>Feature requests</td>
-    <td><a href="https://github.com/hypit-ai/hypit/issues/new?template=feature_request.yml">Open an issue</a></td>
+    <td><a href="https://github.com/F0RGIS/hihi-pinis/issues/new?template=feature_request.yml">Open an issue</a></td>
   </tr>
   <tr>
     <td>Questions</td>
@@ -295,18 +295,18 @@ commands and the repository layout.
 
 ## ⭐ Star History
 
-<a href="https://www.star-history.com/?repos=hypit-ai%2Fhypit&type=date&logscale=&legend=bottom-right">
+<a href="https://www.star-history.com/?repos=F0RGIS%2Fhihi-pinis&type=date&logscale=&legend=bottom-right">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=hypit-ai/hypit&type=date&theme=dark&legend=bottom-right" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=hypit-ai/hypit&type=date&legend=bottom-right" />
-   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=hypit-ai/hypit&type=date&legend=bottom-right" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=F0RGIS/hihi-pinis&type=date&theme=dark&legend=bottom-right" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=F0RGIS/hihi-pinis&type=date&legend=bottom-right" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=F0RGIS/hihi-pinis&type=date&legend=bottom-right" />
  </picture>
 </a>
 
 ## Contributors
 
-<a href="https://github.com/hypit-ai/hypit/graphs/contributors">
-  <img alt="Contributors" src="https://contrib.rocks/image?repo=hypit-ai/hypit">
+<a href="https://github.com/F0RGIS/hihi-pinis/graphs/contributors">
+  <img alt="Contributors" src="https://contrib.rocks/image?repo=F0RGIS/hihi-pinis">
 </a>
 
 ## License
