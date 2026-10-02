@@ -5,7 +5,7 @@
   </picture>
 </p>
 
-<h3 align="center">pinis any pinis video with pinis agents</h3>
+<h3 align="center">pinis video with pinis agents</h3>
 <p align="center">no commands, 10000000 variants, 1 view.</p>
 
 <p align="center">
